@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+Hello! I am a PhD student at UC Berkeley currently being advised by Alex Bayen. I work on safe reinforcement learning and autonomous driving as part of Berkeley’s Artificial Intelligence Research ([BAIR](https://bair.berkeley.edu/)). In addition to my technical research, I’m also an artist working on simulation development using gaming and animation platforms.
 
-You can use the [editor on GitHub](https://github.com/mtgibson2014/marsalisgibson.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Current Research
+- Safe (Reinforcement) Learning
+- Autonomous Driving and Traffic Control
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Publications
+```
+Integrated Framework of Vehicle Dynamics, Instabilities, Energy Models, and Sparse Flow Smoothing Controllers. 
+Jonathan W. Lee, George Gunter, Rabie Ramadan, Sulaiman Almatrudi, Paige Arnold, John Aquino, William Barbour, Rahul Bhadani, Joy Carpio, Fang-Chieh Chou, Marsalis Gibson, Xiaoqian Gong, Amaury Hayat, Nour Khoudari, Abdul Rahman Kreidieh, Maya Kumar, Nathan Lichtlé, Sean McQuade, Brian Nguyen, Megan Ross, 
+Sydney Truong, Eugene Vinitsky, Yibo Zhao, Jonathan Sprinkle, Benedetto Piccoli, Alexandre M. Bayen, Daniel B. Work, Benjamin Seibold.
+CPS-IoT Week '21: Cyber-Physical Systems and Internet of Things, 2021.
+```
+```
+Reachability Analysis for FollowerStopper: Safety Analysis and Experimental Results.
+Fang-Chieh Chou, Marsalis Gibson, Rahul Bhadani, Alexandre M. Bayen, Jonathan Sprinkle.
+ICRA, 2021.
+```
+```
+Scalable Learning of Safety Guarantees for Autonomous Systems using Hamilton-Jacobi Reachability.
+Sylvia Herbert, Jason J Choi, Suvansh Sanjeev, Marsalis Gibson, Koushil Sreenath, Claire J Tomlin.
+ICRA, 2021.
+```
+```
+Parallel Network Flow Allocation in Repeated Routing Games via LQR Optimal Control.
+Marsalis Gibson, Yiling You, Alexandre M Bayen.
+TRB, 2021.
+```
+```
+Multi-Adversarial Safety Analysis for Autonomous Vehicles.
+Gilbert Bahati, Marsalis Gibson, Alexandre M Bayen.
+RSS 2020: Robust Autonomy Workshop.
+```
+```
+MDB: A Metadata Tracking Microcontroller Micro-Database.
+Marsalis T Gibson, Javier Rosa, Eric A Brewer.
+Computing for Development, 2016.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtgibson2014/marsalisgibson.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+Email: mtgibson@berkeley.edu
